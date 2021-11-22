@@ -94,11 +94,11 @@ namespace NNClient
                         var Req = builder.ToString();
                         if (Req == "errore")
                         {
-                            if (i == 20)
-                            {
-                                MessageBox.Show("server dont responce, restart server or client");
-                            }
-                            i++;
+                            //if (i == 20)
+                            //{
+                            //    MessageBox.Show("server dont responce, restart server or client");
+                            //}
+                            //i++;
                         }
                         else
                         {
