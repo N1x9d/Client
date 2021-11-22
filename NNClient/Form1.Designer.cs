@@ -105,9 +105,9 @@ namespace NNClient
             this.label3.ForeColor = System.Drawing.Color.Red;
             this.label3.Location = new System.Drawing.Point(539, 130);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(105, 20);
+            this.label3.Size = new System.Drawing.Size(115, 20);
             this.label3.TabIndex = 6;
-            this.label3.Text = "Не извесен";
+            this.label3.Text = "Не известен";
             // 
             // textBox2
             // 
